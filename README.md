@@ -4,6 +4,7 @@ description: "A simple hello world application that uses a TextView to display a
 page_type: sample
 languages:
 - csharp
+- javascript
 products:
 - xamarin
 extensions:
