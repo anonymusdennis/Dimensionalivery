@@ -46,6 +46,9 @@ namespace Mono.Samples.HelloWorld
 			// aapt resource value: 0x7F010000
 			public const int icon = 2130771968;
 			
+			// aapt resource value: 0x7F010001
+			public const int layout_bg = 2130771969;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -60,7 +63,16 @@ namespace Mono.Samples.HelloWorld
 		{
 			
 			// aapt resource value: 0x7F020000
-			public const int textView1 = 2130837504;
+			public const int button1 = 2130837504;
+			
+			// aapt resource value: 0x7F020001
+			public const int editText2 = 2130837505;
+			
+			// aapt resource value: 0x7F020002
+			public const int linearLayout1 = 2130837506;
+			
+			// aapt resource value: 0x7F020003
+			public const int textView1 = 2130837507;
 			
 			static Id()
 			{
