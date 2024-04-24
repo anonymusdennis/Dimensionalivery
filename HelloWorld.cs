@@ -21,7 +21,7 @@ namespace Mono.Samples.HelloWorld
 		{
 			base.OnCreate (savedInstanceState);
 
-			SetContentView (Resource.Layout.usermenu);
+            SetContentView (Resource.Layout.usermenu);
 		}
 	}
 }
