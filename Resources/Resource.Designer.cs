@@ -60,22 +60,7 @@ namespace Mono.Samples.HelloWorld
 		{
 			
 			// aapt resource value: 0x7F020000
-			public const int button1 = 2130837504;
-			
-			// aapt resource value: 0x7F020001
-			public const int editText1 = 2130837505;
-			
-			// aapt resource value: 0x7F020002
-			public const int editText2 = 2130837506;
-			
-			// aapt resource value: 0x7F020003
-			public const int linearLayout1 = 2130837507;
-			
-			// aapt resource value: 0x7F020004
-			public const int linearLayout2 = 2130837508;
-			
-			// aapt resource value: 0x7F020005
-			public const int textView1 = 2130837509;
+			public const int textView1 = 2130837504;
 			
 			static Id()
 			{
@@ -91,10 +76,7 @@ namespace Mono.Samples.HelloWorld
 		{
 			
 			// aapt resource value: 0x7F030000
-			public const int anmelden = 2130903040;
-			
-			// aapt resource value: 0x7F030001
-			public const int usermenu = 2130903041;
+			public const int main = 2130903040;
 			
 			static Layout()
 			{
@@ -113,19 +95,10 @@ namespace Mono.Samples.HelloWorld
 			public const int app_name = 2130968576;
 			
 			// aapt resource value: 0x7F040001
-			public const int at1 = 2130968577;
+			public const int hello = 2130968577;
 			
 			// aapt resource value: 0x7F040002
-			public const int auftragsuchen = 2130968578;
-			
-			// aapt resource value: 0x7F040003
-			public const int hello = 2130968579;
-			
-			// aapt resource value: 0x7F040004
-			public const int login_text1 = 2130968580;
-			
-			// aapt resource value: 0x7F040005
-			public const int user_text1 = 2130968581;
+			public const int login_text1 = 2130968578;
 			
 			static String()
 			{
