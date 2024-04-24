@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="login_text1">Dimensional Status</string>
-	<string name="at1">Anmelden</string>
+  <string name="login_text1">Anmelden</string>
     <string name="hello">Dies ist eine Textressource</string>
     <string name="app_name">Hello, Android</string>
-	<string name="user_text1">Auftrags Nummer eingeben</string>
-	<string name="auftragsuchen">Fiverr Auftrag Suchen</string>
 </resources>
