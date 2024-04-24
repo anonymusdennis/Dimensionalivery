@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="at1">Fragment Sample</string>
+  <string name="app_name">Fragment Sample</string>
+  <string name="login_text1">Anmelden</string>
+  <string name="hello">Dies ist eine Textressource</string>
+  <string name="user_text1">Auftrags Nummer eingeben</string>
+  <string name="auftragsuchen">Fiverr Auftrag Suchen</string>
+  <string name="emailtext">Email Adresse eingeben:</string>
+  <string name="passworttext">Passwort eingeben</string>
+  <string name="Benachrichtigung">Möchtest du Benachrichtigt werden wenn sich was ändert?</string>
+  <string name="auftragsnummershow">NYI</string>
+  <string name="auftragerstellen">Fiverr Auftrag Erstellen</string>
+  
+</resources>
