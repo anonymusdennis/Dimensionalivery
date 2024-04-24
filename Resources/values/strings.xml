@@ -3,4 +3,14 @@
   <string name="login_text1">Anmelden</string>
     <string name="hello">Dies ist eine Textressource</string>
     <string name="app_name">Hello, Android</string>
+<<<<<<< Updated upstream
+=======
+	<string name="user_text1">Auftrags Nummer eingeben</string>
+	<string name="auftragsuchen">Fiverr Auftrag Suchen</string>
+	<string name="emailtext">Email Adresse eingeben:</string>
+	<string name="passworttext">Passwort eingeben</string>
+	<string name="Benachrichtigung">Möchtest du Benachrichtigt werden wenn sich was ändert?</string>
+	<string name="auftragsnummershow">@string/show_auftragsnummer_from_auftrag_suchen</string>
+	<string name="auftragerstellen">Fiverr Auftrag Erstellen</string>
+>>>>>>> Stashed changes
 </resources>
